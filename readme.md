@@ -4,6 +4,10 @@ An end-to-end data analytics project exploring the evolution, habits, and struct
 
 Data was extracted from the massive **[GitHub Public Dataset on Google BigQuery](https://console.cloud.google.com/marketplace/product/github/github-repos)** using SQL, transformed into summarized CSV files, and visualized in a comprehensive Tableau dashboard.
 
+<a href="https://public.tableau.com/views/GitHubEcosystemAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+ <img src="dashboard/Dashboard.png" alt="GitHub Ecosystem Dashboard Preview" width="100%">
+</a>
+
 **🔗 [CLICK HERE TO VIEW THE INTERACTIVE DASHBOARD ON TABLEAU PUBLIC](https://public.tableau.com/views/GitHubEcosystemAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 **🗄️ [CLICK HERE TO EXPLORE THE RAW DATASET ON BIGQUERY](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=github_repos&page=dataset)**
 
